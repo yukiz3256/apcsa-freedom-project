@@ -14,7 +14,7 @@ Product
 Presentation
 
 ## Implications
-Z
+X
 
 ---
 
