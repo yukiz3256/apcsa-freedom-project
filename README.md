@@ -2,10 +2,10 @@
 by Your Name Here
 
 ## Context
-Text
+The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
 
 ## Content
-Text
+For my project, I am making X using X. This blog will walk through my process of independently studying X to make X.
 
 ## Links
 
