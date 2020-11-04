@@ -1,5 +1,5 @@
 # APCSA Freedom Project
-by Your Name Here
+by X
 
 ## Context
 The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
@@ -14,7 +14,7 @@ Product
 Presentation
 
 ## Implications
-Text
+Z
 
 ---
 
